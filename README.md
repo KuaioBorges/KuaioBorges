@@ -12,7 +12,8 @@
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+  <img align="center" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+  <img align="center" heigth="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />  
   <img align="right"  height="200" width="200"  src="https://cdn.discordapp.com/attachments/1116422947477922003/1116428329302642810/ezgif.com-gif-maker.gif" />
   </div>
   
